@@ -29,9 +29,9 @@ The technology stack for this project includes:
    - Flask-Mail for email communication.
 
 ## Usage
-Once the project is set up and running, users can:
-Access the platform through a web browser.
-Upload dermoscopic images for analysis.
-Book appointments with dermatologists.
-View nearby dermatologists on the interactive map.
-Communicate securely with healthcare providers.
+- Once the project is set up and running, users can:
+- Access the platform through a web browser.
+- Upload dermoscopic images for analysis.
+- Book appointments with dermatologists.
+- View nearby dermatologists on the interactive map.
+- Communicate securely with healthcare providers.
